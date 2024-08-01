@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://prod.assets.earlygamecdn.com/images/Radahn.jpg?transform=banner2x_webp);
+    background-repeat:no-repeat;
+    background-size: cover;
+    opacity: 1.5;
+}
+p{
+    font-size: large;
+    
+}
