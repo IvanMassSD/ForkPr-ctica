@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(97, 161, 161);
+}
+.producto{
+    background-color: antiquewhite;
+    color: rgb(110, 110, 235);
+    padding: 5px;
+    font-family: helvetica;
+}
+button{
+    background-color:rgb(97, 161, 161) ;
+    padding: 5px;
+}
