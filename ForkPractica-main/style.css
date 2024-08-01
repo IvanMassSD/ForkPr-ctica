@@ -1,0 +1,27 @@
+h1{color: rgb(115, 39, 187);}
+ h1{
+      
+  
+         top: 35px;
+         font-size: 180%; 
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         font-weight: 200;
+    }
+
+    p{
+        top: 350px;
+         font-size: 140%; 
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         font-weight: 200; 
+         background-color: rgb(155, 93, 255);
+    }
+
+    h3{
+        top: 430px;
+         font-size: 250%;  
+         color:green
+    }
+    body{
+        background-color: rgb(193, 146, 236);
+    }
+
