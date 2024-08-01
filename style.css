@@ -1,0 +1,51 @@
+body { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+.cuadrado {
+    width: 800px;
+    height: auto;
+    border: 1px solid rgb(255, 255, 255) ;
+    background-color: rgb(255, 255, 255);
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.texto{
+    font-size: medium;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+.ciopre{
+text-decoration:line-through
+}
+.texto2{
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  color: green;
+  position: relative;
+  top: -10px;
+}
+.texto4{
+    font-size: small;
+    display: flex;
+flex-direction: column;
+color: green;
+  position: relative;
+}
+desc.{
+    font-size: medium;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  position: relative;
+
+  top: -10px;
+}
+}
