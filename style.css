@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(124, 149, 196);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    background-color: rgb(255, 255, 230);
+    height: 45px;
+    width: 1300px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: rgb(90, 108, 141);
+}
+button{
+    height: 35px;
+    width: 130px;
+    border-radius: 10px;
+    background-color: rgb(104, 126, 167);
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+    background-color: rgb(104, 126, 167);
+    width: 500px;
+    height: 140px;
+    border-radius: 5px;
+    padding: 20px;
+}
+img{
+    margin: 20px;
+}
+h2{
+    background-color: rgb(255, 255, 230);
+    height: 30px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 5px;
+}
