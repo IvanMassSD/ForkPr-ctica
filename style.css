@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://www.fiftysounds.com/images/graphics/white-low-poly-background-338.jpg);
+}
+
+.producto{
+    margin: 50px 650px;
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow:  9px 11px 93px 12px rgba(0,0,0,0.75);
+}
+
+img{
+    width: 150px;
+    height: auto;
+}
+
+h1{
+    color: rgb(24, 163, 24);
+    font-size:x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-size: small;
+}
+
+h3{
+    font-size:larger;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(63, 139, 32);
+    border: 0;
+    font-size: larger;
+}
