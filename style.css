@@ -1,0 +1,24 @@
+body {
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: flex;   
+flex-direction: column;
+
+}
+h1{
+
+
+width: 1880px;
+display: flex;
+height: 50px;
+justify-content: center;
+color:aqua;
+}
+button{
+
+width: 120px;
+background-color: rgb(104, 126, 167);
+color: aliceblue;
+
+
+}
