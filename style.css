@@ -1,12 +1,12 @@
 body{
-    background-color: #1eff00;
+    background-color: #00f7ff;
 }
 
 H1 {
     font-size: 32px; 
     font-weight: bold; 
     margin-bottom: 15px; 
-    color: rgb(255, 0, 179);
+    color: rgb(111, 0, 255);
 }
 
 p{
@@ -40,3 +40,4 @@ button {
 button:hover{
     background-color: #28a745;
 }
+
