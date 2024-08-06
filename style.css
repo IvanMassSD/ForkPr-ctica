@@ -1,18 +1,42 @@
 body{
-
-
-
-background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFQBzPZyR4_EOZKR8AUHzxRpCHk29RmYhmxg&s);
-background-repeat: no-repeat;
-background-size: cover;
-h1 { color: #ff0000; }
-h3 { color: #0051ff; }
-font-size: 200%;
-font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #1eff00;
 }
 
+H1 {
+    font-size: 32px; 
+    font-weight: bold; 
+    margin-bottom: 15px; 
+    color: rgb(255, 0, 179);
+}
 
-button:hover {
-    letter-spacing: 5px;
+p{
+    font-size: 26px; 
+    color: #333; 
+    margin-bottom: 20px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
+H3{
+    font-size: 22px; 
+    font-weight: bold; 
+    margin-bottom: 15px; 
+    color: red;
+}
+
+button {
+    display: inline-block; 
+    padding: 10px 20px; 
+    font-size: 18px; 
+    color: #fff; 
+    background-color: #007bff; 
+    border: none; 
+    border-radius: 5px; 
+    text-decoration: none; 
+    cursor: pointer; 
+    transition: background-color 0.3s;
+
+}
+
+button:hover{
+    background-color: #28a745;
 }
